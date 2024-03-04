@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;
+}
+td {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
+.white {
+    background-color: #faf2f2;
+}
+.black {
+    background-color: #000000;
+}
